@@ -1,0 +1,76 @@
+{
+    "cake": [
+        {
+            "id": "1",
+            "title": "cupcake-1",
+            "price": 10.99,
+            "image": "./images/cupcake-1.jpg"
+        },
+        {
+            "id": "2",
+            "title": "cupcake-2",
+            "price": 10.99,
+            "image": "./images/cupcake-2.jpg"
+        },
+        {
+            "id": "3",
+            "title": "cupcake-3",
+            "price": 10.99,
+            "image": "./images/cupcake-3.jpg"
+        },
+        {
+            "id": "4",
+            "title": "cupcake-4",
+            "price": 10.99,
+            "image": "./images/cupcake-4.jpg"
+        },
+        {
+            "id": "5",
+            "title": "cake-1",
+            "price": 10.99,
+            "image": "./images/cake-1.jpg"
+        },
+        {
+            "id": "6",
+            "title": "cake-2",
+            "price": 10.99,
+            "image": "./images/cake-2.jpg"
+        },
+        {
+            "id": "7",
+            "title": "cake-3",
+            "price": 10.99,
+            "image": "./images/cake-3.jpg"
+        },
+        {
+            "id": "8",
+            "title": "cake-4",
+            "price": 10.99,
+            "image": "./images/cake-4.jpg"
+        },
+        {
+            "id": "9",
+            "title": "cake-5",
+            "price": 10.99,
+            "image": "./images/cake-5.jpg"
+        },
+        {
+            "id": "10",
+            "title": "cake-6",
+            "price": 10.99,
+            "image": "./images/cake-6.jpg"
+        },
+        {
+            "id": "11",
+            "title": "weddingcake-1",
+            "price": 10.99,
+            "image": "./images/weddingcake-1.jpg"
+        },
+        {
+            "id": "12",
+            "title": "weddingcake-2",
+            "price": 10.99,
+            "image": "./images/weddingcake-2.jpg"
+        }
+    ]
+}
